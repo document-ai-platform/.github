@@ -4,10 +4,10 @@ Microservice-based document processing platform with OCR and ML classification.
 
 ## Repositories
 
-- 📱 [ai-platform-frontend](./frontend) - React UI with Express server
-- ⚙️ [ai-platform-backend](./backend) - Spring Boot API
-- 🤖 [ai-platform-ml-service](./ml-service) - Python ML service
-- 🐳 [ai-platform-infrastructure](./infrastructure) - Docker & deployment
+- 📱 [ai-platform-frontend](https://github.com/document-ai-platform/frontend) - React UI with Express server
+- ⚙️ [ai-platform-backend](https://github.com/document-ai-platform/backend) - Spring Boot API
+- 🤖 [ai-platform-ml-service](https://github.com/document-ai-platform/ml-service) - Python ML service
+- 🐳 [ai-platform-infrastructure](https://github.com/document-ai-platform/infrastructure) - Docker & deployment
 
 ## Quick Start
 ```bash
